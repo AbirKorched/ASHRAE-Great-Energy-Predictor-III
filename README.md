@@ -1,0 +1,2 @@
+# ASHRAE-Great-Energy-Predictor-III
+We are using a dataset related to ASHRAE – Great Energy Predictor III (How much energy will a building consume?). The goal is to develop models from ASHRAE’s 2016 data in order to better understand metered building energy usage in the following areas: chilled water, electric, hot water, and steam meters. The data comes from over 1,000 buildings over a one-year timeframe. The method chosen to solve the problem is Linear Regression.     
